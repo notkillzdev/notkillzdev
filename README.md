@@ -1,4 +1,4 @@
-## Hey, I am notkill!
+## Hey, I am cybermcc!
 
 Programming languages I know:
 - Python
