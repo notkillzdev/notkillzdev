@@ -1,4 +1,4 @@
-## Hey, i am Iᴛᴢᴄʏʙᴇʀ!
+## Hᴇʏ! I ᴀᴍ Iᴛᴢᴄʏʙᴇʀ!
 
 Programming languages I know:
 - Python
@@ -18,7 +18,7 @@ What I can do:
   <summary><strong>Portfolio</strong></summary>
 
   ```
-https://xxkillz.xyz
+https://solo.to/cybermcc
 ```
 </details>
 
