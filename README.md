@@ -1,4 +1,4 @@
-## Hey, I am cybermcc!
+## Hey, i am Iᴛᴢᴄʏʙᴇʀ!
 
 Programming languages I know:
 - Python
